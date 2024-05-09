@@ -11,7 +11,7 @@
 
 ## Screenshot
 
-<img src="">
+<img src="Calculadora.png">
 
 ## Para utilizar o app, vá ate a pasta do projeto digite:
 ```
